@@ -1,0 +1,28 @@
+{
+        name: "Harry Potter and the Order of the Phoenix",
+        img: "https://bit.ly/2IcnSwz",
+        summary:
+            "Harry Potter and Dumbledore's warning about the return of Lord Voldemort is not heeded...",
+    },
+    {
+        name: "The Lord of the Rings: The Fellowship of the Ring",
+        img: "https://bit.ly/2tC1Lcg",
+        summary:
+            "A young hobbit, Frodo, who has found the One Ring that belongs to the Dark Lord Sauron...",
+    },
+    {
+        name: "Avengers: Endgame",
+        img: "https://bit.ly/2Pzczlb",
+        summary:
+            "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts...",
+    },
+    {
+        "name": "Ford vs Ferrari",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/b7a51fcdee29dcb53bc11170b510e85ae808176477d01a00795ad7288d69f5ac.jpg",
+        "summary": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966."
+},
+
+{
+    "name":"The Socail Network",
+    "img":"https://resizing.flixster.com/lH_l4_vCnn8bQyJYFvrBaCQ-1ME=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8078163_i_h8_af.jpg",
+    "summary":"As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business."}
